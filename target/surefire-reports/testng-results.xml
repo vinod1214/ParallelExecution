@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="110349" started-at="2020-06-05T14:41:41 IST" finished-at="2020-06-05T14:43:31 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="RunCucumberTest.feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:parallel.RunCucumberTest@396f6598]" name="feature" class="parallel.RunCucumberTest"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Surefire test" duration-ms="110349" started-at="2020-06-05T14:41:41 IST" finished-at="2020-06-05T14:43:31 IST">
+      <class name="parallel.RunCucumberTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:parallel.RunCucumberTest@396f6598]" name="setUpClass" is-config="true" duration-ms="193" started-at="2020-06-05T14:41:41 IST" finished-at="2020-06-05T14:41:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:parallel.RunCucumberTest@396f6598]" name="feature" duration-ms="109251" started-at="2020-06-05T14:41:41 IST" description="Runs Cucumber Feature" data-provider="scenarios" finished-at="2020-06-05T14:43:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Regression Manager Remove"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Regression Manager Tests"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:parallel.RunCucumberTest@396f6598]" name="feature" duration-ms="87710" started-at="2020-06-05T14:41:41 IST" description="Runs Cucumber Feature" data-provider="scenarios" finished-at="2020-06-05T14:43:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Regression Manager Login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Regression Manager Login Test"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:parallel.RunCucumberTest@396f6598]" name="tearDownClass" is-config="true" duration-ms="819" started-at="2020-06-05T14:43:30 IST" finished-at="2020-06-05T14:43:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="html_report()[pri:0, instance:parallel.RunCucumberTest@396f6598]" name="html_report" is-config="true" duration-ms="1786" started-at="2020-06-05T14:43:31 IST" finished-at="2020-06-05T14:43:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- html_report -->
+        <test-method status="PASS" signature="sendMail()[pri:0, instance:parallel.RunCucumberTest@396f6598]" name="sendMail" is-config="true" duration-ms="11027" started-at="2020-06-05T14:43:33 IST" finished-at="2020-06-05T14:43:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendMail -->
+      </class> <!-- parallel.RunCucumberTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

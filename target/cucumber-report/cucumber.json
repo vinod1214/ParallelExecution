@@ -1,0 +1,170 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 74726554000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginPage.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Regression Manager Login",
+        "description": "",
+        "id": "regression-manager-login-test;regression-manager-login",
+        "after": [
+          {
+            "result": {
+              "duration": 264500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginPage.endScenario(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5353705400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am given with RegMan Home Page",
+            "match": {
+              "location": "LoginPage.i_am_given_with_RegMan_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 26855700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I validate the HomePage title",
+            "match": {
+              "location": "LoginPage.i_validate_the_HomePage_title()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 7077683600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "check for oracle logo",
+            "match": {
+              "location": "LoginPage.check_for_oracle_logo()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Scenario1"
+          }
+        ]
+      }
+    ],
+    "name": "Regression Manager Login Test",
+    "description": "",
+    "id": "regression-manager-login-test",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/parallel/login.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 75324886700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "RemoveMRLFromSuite.setUp()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Regression Manager Remove",
+        "description": "",
+        "id": "regression-manager-tests;regression-manager-remove",
+        "after": [
+          {
+            "result": {
+              "duration": 705700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "RemoveMRLFromSuite.endScenario(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10317140000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "i am provided with suites manager window",
+            "match": {
+              "location": "RemoveMRLFromSuite.i_am_provided_with_suites_manager_window()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 10393394400,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "i expand run testMrl suite tree node",
+            "match": {
+              "location": "RemoveMRLFromSuite.i_expand_run_testMrl_suite_tree_node()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 12695364400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "i select and remove mrl from suite",
+            "match": {
+              "location": "RemoveMRLFromSuite.i_select_and_remove_mrl_from_suite()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Scenario3"
+          }
+        ]
+      }
+    ],
+    "name": "Regression Manager Tests",
+    "description": "",
+    "id": "regression-manager-tests",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/parallel/regman.feature",
+    "tags": []
+  }
+]

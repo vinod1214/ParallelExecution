@@ -1,0 +1,284 @@
+2020-05-25 19:05:55,066  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-25 19:05:55,067  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-25 19:07:21,701  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-25 19:07:31,997  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-25 19:07:32,077  INFO [TestNG-PoolService-1] TestBase:87 - Regression Manager Removeis Failes
+2020-05-25 19:07:41,736  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-25 19:07:41,743  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 11:53:39,767  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 11:53:39,780  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 11:56:10,809  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-26 11:56:16,808  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-26 11:56:20,766  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-26 11:56:24,431  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 11:56:24,447  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 12:01:22,067  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 12:01:22,093  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 12:03:15,476  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-26 12:03:27,894  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-26 12:03:33,752  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 12:03:33,793  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 12:10:49,805  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 12:10:49,816  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 12:12:49,301  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-26 12:12:54,536  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-26 12:12:56,801  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-26 12:13:12,966  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 12:13:13,097  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 12:48:36,822  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 12:48:36,855  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 12:50:57,267  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-26 12:51:07,854  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-26 12:51:09,852  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 12:51:10,011  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 14:24:09,515  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 14:24:09,517  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 14:25:25,701  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-26 14:25:30,868  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-26 14:25:33,056  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-26 14:25:45,327  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 14:25:45,346  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 14:44:57,951  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 14:44:57,952  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 14:46:18,562  INFO [TestNG-PoolService-1] TestBase:186 - Regression Manager Removeis Failes
+2020-05-26 14:46:30,849  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 14:46:42,880  INFO [TestNG-PoolService-0] TestBase:186 - Regression Manager Loginis Failes
+2020-05-26 14:49:05,874  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 14:49:05,875  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 14:50:19,079  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-26 14:50:29,420  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-26 14:50:33,658  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 14:50:33,682  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 14:53:59,176  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 14:53:59,177  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 14:55:11,797  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-26 14:55:16,970  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-26 14:55:19,133  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-26 14:55:28,345  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 14:55:28,351  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 15:34:49,222  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 15:34:49,224  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 15:36:09,068  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-26 15:36:19,358  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-26 15:36:26,627  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 15:36:26,636  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 15:47:06,743  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 15:47:06,745  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 15:48:21,199  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-26 15:48:26,356  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-26 15:48:28,563  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-26 15:48:40,557  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 15:48:40,564  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 15:52:45,038  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 15:52:45,039  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 15:54:13,933  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-26 15:54:24,291  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-26 15:54:26,524  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 15:54:26,539  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 15:59:04,257  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 15:59:04,258  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 16:00:29,465  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-26 16:00:34,621  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-26 16:00:36,806  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-26 16:00:42,135  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 16:00:42,151  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 16:10:42,786  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 16:10:42,787  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 16:12:05,157  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-26 16:12:15,504  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-26 16:12:18,440  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 16:12:18,457  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 16:21:22,399  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 16:21:22,401  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 16:22:41,243  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-26 16:22:46,428  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-26 16:22:48,615  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-26 16:22:59,388  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 16:22:59,394  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 16:35:08,051  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 16:35:08,052  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 16:36:26,041  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-26 16:36:36,366  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-26 16:36:41,163  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 16:36:41,172  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 16:41:53,124  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 16:41:53,125  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 16:43:14,417  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-26 16:43:19,579  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-26 16:43:21,758  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-26 16:43:28,891  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 16:43:28,897  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 16:53:58,635  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 16:53:58,637  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 16:55:18,346  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-26 16:55:28,671  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-26 16:55:32,801  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 16:55:32,810  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 16:59:16,437  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 16:59:16,439  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 17:00:43,555  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-26 17:00:48,716  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-26 17:00:50,917  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-26 17:00:56,719  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 17:00:56,726  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 17:06:17,661  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 17:06:17,659  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 17:07:42,261  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-26 17:07:42,305  INFO [TestNG-PoolService-1] TestBase:89 - Regression Manager Removeis Failes
+2020-05-26 17:07:57,239  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 17:07:57,247  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 17:19:07,695  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 17:19:07,697  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 17:20:29,638  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-26 17:20:39,958  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-26 17:20:45,278  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 17:20:45,288  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-26 18:00:55,732  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-26 18:00:55,734  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-26 18:02:22,857  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-26 18:02:28,036  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-26 18:02:30,267  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-26 18:02:37,422  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-26 18:02:37,438  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-27 10:49:18,205  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-27 10:49:18,206  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-27 10:50:45,844  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-27 10:50:56,229  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-27 10:51:02,478  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-27 10:51:02,485  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-27 10:56:06,225  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-27 10:56:06,227  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-27 10:57:16,759  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-27 10:57:21,938  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-27 10:57:24,087  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-27 10:57:31,576  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-27 10:57:31,592  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-27 11:08:46,623  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-27 11:08:46,624  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-27 11:10:20,140  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-27 11:10:20,150  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-27 11:10:26,373  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-27 11:10:36,709  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-27 11:41:18,754  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-27 11:41:18,756  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-27 11:42:47,415  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-27 11:42:48,661  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-27 11:42:48,667  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-27 11:42:52,599  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-27 11:42:54,805  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-27 11:42:58,707  INFO [TestNG-PoolService-1] TestBase:89 - Regression Manager Addis Failes
+2020-05-27 11:51:27,152  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-27 11:51:27,153  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-27 11:52:40,011  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-27 11:52:45,156  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-27 11:52:47,351  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-27 11:52:54,668  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-27 11:52:54,674  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-27 12:36:35,775  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-27 12:36:35,778  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-27 12:37:48,946  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-27 12:37:59,301  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-27 12:38:03,629  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-27 12:38:03,636  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-27 13:08:10,686  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-27 13:08:10,687  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-27 13:09:29,265  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-27 13:09:34,460  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-27 13:09:36,662  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-27 13:09:44,093  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-27 13:09:44,099  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-27 13:32:04,080  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-27 13:32:04,081  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-27 13:33:23,430  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-27 13:33:33,748  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-27 13:33:38,148  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-27 13:33:38,159  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-27 13:36:01,001  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-27 13:36:01,003  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-27 13:37:19,473  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-27 13:37:24,659  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-27 13:37:26,838  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-27 13:37:34,177  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-27 13:37:34,183  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-27 14:30:43,865  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-27 14:30:43,868  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-27 14:32:06,251  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-27 14:32:16,559  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-27 14:32:20,953  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-27 14:32:20,968  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-27 14:37:33,909  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-27 14:37:33,910  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-27 14:39:02,401  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-27 14:39:10,837  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-27 14:39:10,843  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-27 14:39:22,707  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-27 14:39:22,750  INFO [TestNG-PoolService-1] TestBase:89 - Regression Manager Removeis Failes
+2020-05-29 20:34:52,732  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-29 20:34:52,734  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-29 20:36:24,591  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-29 20:36:29,784  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-29 20:36:32,000  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-29 20:36:38,491  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-29 20:36:38,511  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-29 20:41:32,959  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-29 20:41:32,961  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-29 20:42:51,041  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-29 20:43:01,412  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-29 20:43:04,201  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-29 20:43:04,221  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-29 20:51:28,791  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-29 20:51:28,793  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-29 20:52:44,532  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-29 20:52:49,751  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-29 20:52:51,965  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-29 20:52:59,152  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-29 20:52:59,171  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-29 21:02:02,305  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-29 21:02:02,307  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-29 21:03:16,032  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-29 21:03:26,457  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-29 21:03:30,571  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-29 21:03:30,603  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-30 12:55:40,647  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-30 12:55:40,649  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-30 12:56:57,786  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-30 12:57:02,952  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-30 12:57:05,129  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-30 12:57:12,496  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-30 12:57:12,510  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-30 13:01:36,121  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-30 13:01:36,119  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-30 13:02:47,594  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-30 13:02:57,951  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-30 13:03:02,527  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-30 13:03:02,544  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-30 13:10:56,980  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-30 13:10:56,982  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-30 13:12:10,406  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-30 13:12:15,556  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-30 13:12:17,765  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-30 13:12:25,045  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-30 13:12:25,062  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-30 14:00:52,795  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-30 14:00:52,797  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-30 14:02:07,776  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-05-30 14:02:18,141  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************
+2020-05-30 14:02:24,029  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-30 14:02:24,036  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-30 15:11:08,113  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-30 15:11:08,114  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-30 15:12:32,688  INFO [TestNG-PoolService-1] AddMRLToSuite:45 - ************************User expand VINODDUDDUKURI right tree node********************************
+2020-05-30 15:12:37,872  INFO [TestNG-PoolService-1] AddMRLToSuite:55 - ************************User expand VINODDUDDUKURI left tree node********************************
+2020-05-30 15:12:40,107  INFO [TestNG-PoolService-1] AddMRLToSuite:65 - ************************User add pdf_embed mrl from VINODDUDDUKURI left tree node to testMRL suite in VINODDUDDUKURI right tree********************************
+2020-05-30 15:12:47,322  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-05-30 15:12:47,336  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-05-30 18:31:45,544  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-05-30 18:31:45,546  INFO [TestNG-PoolService-1] AddMRLToSuite:28 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-05-30 18:32:12,625  INFO [TestNG-PoolService-0] TestBase:89 - Regression Manager Loginis Failes
+2020-05-30 18:32:16,594  INFO [TestNG-PoolService-1] TestBase:89 - Regression Manager Addis Failes
+2020-06-05 14:41:42,150  INFO [TestNG-PoolService-0] LoginPage:23 - ************************Initializing Browser and login to Regression Manager App********************************
+2020-06-05 14:41:42,151  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:26 - ************************Initializing Browser and opening Regression Manager Login Page********************************
+2020-06-05 14:43:02,154  INFO [TestNG-PoolService-0] LoginPage:32 - ************************Execute method********************************
+2020-06-05 14:43:02,175  INFO [TestNG-PoolService-0] LoginPage:39 - Documaker Regressions System
+2020-06-05 14:43:07,711  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:41 - ************************Expand testMrl suite under VINODDUDDUKURI right tree node********************************
+2020-06-05 14:43:18,105  INFO [TestNG-PoolService-1] RemoveMRLFromSuite:55 - ************************Remove pdf_embed mrl from testMrl suite available in VINODDUDDUKURI right tree ********************************

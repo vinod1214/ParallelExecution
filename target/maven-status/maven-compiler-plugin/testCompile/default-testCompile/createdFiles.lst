@@ -1,0 +1,9 @@
+util\ZIPFile.class
+parallel\RemoveMRLFromSuite.class
+parallel\AddMRLToSuite.class
+parallel\RunCucumberTest$1.class
+util\TestBase.class
+parallel\LoginPage.class
+pageObjects\SuitesManagerPageObjects.class
+parallel\RunCucumberTest.class
+pageObjects\HomePageObjects.class
